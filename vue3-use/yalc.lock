@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "vue3-component": {
+      "signature": "9e52f5afa9d4cd73c74b13b88a11b098",
+      "file": true
+    }
+  }
+}
